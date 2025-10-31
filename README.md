@@ -19,6 +19,6 @@ Projects are sorted by the primary tool used for the analysis
 
 | Project | Description | Key Technical Skills | Database |
 |---------|-------------|---------------------|----------|
-| **[Market Expansion Analysis](https://github.com/ztipton19/SQL-Portfolio/blob/main/AdventureWorks-Analysis/Full_Analysis.sql)** | $10M investment allocation strategy: territory performance analysis, customer segmentation, and ROI modeling | • Window functions (NTILE, LAG, PERCENT_RANK)<br>• Statistical classifications with PERCENTILE_CONT<br>• Complex CTEs<br>• Correlated subqueries<br>• Cross-sell opportunity identification | `SQL Server` `AdventureWorks` |
+| **[Market Expansion Analysis](https://github.com/ztipton19/SQL/blob/main/SQL_Portfolio_AdventureWorks_Analysis.sql)** | $10M investment allocation strategy: territory performance analysis, customer segmentation, and ROI modeling | • Window functions (NTILE, LAG, PERCENT_RANK)<br>• Statistical classifications with PERCENTILE_CONT<br>• Complex CTEs<br>• Correlated subqueries<br>• Cross-sell opportunity identification | `SQL Server` `AdventureWorks` |
 
 ---
