@@ -1,14 +1,12 @@
-# projects-hub
-
-# Econometrics Portfolio
+# Projects Hub
 
 **Zachary Tipton** | M.S. Economic Analytics | University of Arkansas
 
-Advanced econometric analysis and data science projects demonstrating statistical modeling, data preprocessing, and economic interpretation.
+Projects are sorted by the primary tool used for the analysis
 
 ---
 
-## 📊 Projects
+## 📊 Econometrics - Python
 
 | Assignment | Description | Key Technical Skills | Packages Used |
 |------------|-------------|---------------------|---------------|
