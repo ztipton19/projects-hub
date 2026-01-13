@@ -6,6 +6,12 @@ Projects are sorted by the primary tool used for the analysis
 
 ---
 
+## 📊 AI Engineering - Python
+
+| Project | Description | Key Technical Skills | Database |
+|---------|-------------|---------------------|----------|
+| **[ESG Report Automation](https://github.com/ztipton19/esg-ai-project)** | Automate ESG compliance reporting with AI-powered utility bill extraction and GRI-compliant report generation. Currently uses Claude Sonnet 4, Docling, Tesseract OCR, Streamlit and ReportLab for the full pipeline. You will need a Antropic API key to run the program. Or contact me for streamlit access. | `Python` `AI Engineering` `ESG compliance` |
+
 ## 📊 Data Analytics Fundamentals - Python
 
 | Project | Description | Key Technical Skills | Database |
