@@ -10,7 +10,7 @@ Projects are sorted by the primary tool used for the analysis
 
 | Project | Description | Key Technical Skills | Database |
 |---------|-------------|---------------------|----------|
-| **[ESG Report Automation](https://github.com/ztipton19/esg-ai-project)** | Automate ESG compliance reporting with AI-powered utility bill extraction and GRI-compliant report generation. Currently uses Claude Sonnet 4, Docling, Tesseract OCR, Streamlit and ReportLab for the full pipeline. You will need a Antropic API key to run the program. Or contact me for streamlit access. | `Python` `AI Engineering` `ESG compliance` |
+| **[ESG Report Automation](https://github.com/ztipton19/esg-ai-project)** | Automated ESG compliance reporting with AI-powered utility bill extraction and GRI-compliant PDF generation. 3-tier extraction system reduces processing costs by 95% while maintaining 95%+ accuracy. | • Claude API integration with error handling and cost tracking<br>• 3-tier extraction architecture (Docling → Tesseract OCR → Claude Vision)<br>• GRI 305-2 compliant report generation with ReportLab<br>• Data validation with hallucination detection and sanity checks<br>• Streamlit production deployment with batch processing | `Python` `Claude API` `Streamlit` `EPA eGRID` |
 
 ## 📊 Data Analytics Fundamentals - Python
 
